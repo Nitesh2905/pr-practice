@@ -1,2 +1,11 @@
 # pr-practice
-Never made a PR? Do it here.
+This is for Practicing Pull Request 
+Add you name according to alphabet
+
+How to add your name 
+`[Name](profile-link)`
+
+## A
+
+
+## B
